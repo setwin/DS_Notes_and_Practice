@@ -1,1 +1,1 @@
-# DS_Practice
+# Python Practice
